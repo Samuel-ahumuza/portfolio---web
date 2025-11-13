@@ -20,7 +20,7 @@ header {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-nav {
+/* nav {
     display: unset;
     justify-content: space-between;
     align-items: auto;
@@ -38,7 +38,7 @@ nav ul {
 }
 
 nav ul li {
-    margin-left: 50px;
+    margin-left: 50px; */
 }
 
 nav ul li a {
